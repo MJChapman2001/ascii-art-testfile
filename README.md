@@ -10,8 +10,8 @@ To run the test file you simply need to open a terminal in the project folder an
 
 If your project passed the test the output should be as follows(with a varying amount of time taken):
 
-![success]()
+![success](https://user-images.githubusercontent.com/93149248/151344289-f0631bcc-bb53-42c6-9559-96cb1cf9db31.png)
 
 If it did not pass it should be like so:
 
-![failure]()
+![failure](https://user-images.githubusercontent.com/93149248/151344324-b6664cef-1ff2-4ee8-b55f-18c9b6337f7f.png)
